@@ -1,12 +1,33 @@
-You have installed the template package. 
-
-Please create your own fork and replace this file with a template-call:
-
-<code>
 {{Helper/Project/Privacy_policy
-|contact=<your data protection office>
-|email=<your data protection officer email>
-}}
-</code>
+|contact=Fraunhofer Gesellschaft zur Förderung der angewandten Forschung e.V.
 
-More information: https://github.com/OpenSemanticWorld-Packages/world.opensemantic.meta.legal
+Hansastrasse 27 c,
+
+80686 München, Germany
+
+on behalf of its
+
+Fraunhofer Institute for Silicate Research ISC
+
+Neunerplatz 2
+
+D-97082 Würzburg, Germany
+
+(herinafter referred to as '''Fraunhofer-ISC''')
+{| class="wikitable"
+|Email:
+|[mailto:privacy@isc.fraunhofer.de privacy@isc.fraunhofer.de]
+|-
+|Telephone:   
+|<nowiki>+49 (0)931  4100-0</nowiki>
+|-
+|Fax:
+|<nowiki>+49 (0)931  4100-559</nowiki>
+|}
+The corporate data protection officer at Fraunhofer can be reached at the above-mentioned address in Munich, c/o Data Protection Officer or at [mailto:datenschutz@zv.fraunhofer.de datenschutz@zv.fraunhofer.de].
+
+Please feel free to contact the data protection officer directly at any time with your questions concerning your data protection rights and/or your rights as data subject.
+
+Alternatively, you may want to send an email to our contact partner Joachim Kalinowski at [mailto:privacy@isc.fraunhofer.de privacy@isc.fraunhofer.de].
+|email=privacy@isc.fraunhofer.de privacy@isc.fraunhofer.de
+}}
